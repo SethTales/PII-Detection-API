@@ -1,0 +1,11 @@
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\bin\Debug\netcoreapp2.0\PIIApi.deps.json
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\bin\Debug\netcoreapp2.0\PIIApi.runtimeconfig.json
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\bin\Debug\netcoreapp2.0\PIIApi.runtimeconfig.dev.json
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\bin\Debug\netcoreapp2.0\PIIApi.dll
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\bin\Debug\netcoreapp2.0\PIIApi.pdb
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\obj\Debug\netcoreapp2.0\PIIApi.csprojAssemblyReference.cache
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\obj\Debug\netcoreapp2.0\PIIApi.csproj.CoreCompileInputs.cache
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\obj\Debug\netcoreapp2.0\PIIApi.AssemblyInfoInputs.cache
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\obj\Debug\netcoreapp2.0\PIIApi.AssemblyInfo.cs
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\obj\Debug\netcoreapp2.0\PIIApi.dll
+C:\Users\Seth Taylor\source\repos\PIIApi\PIIApi\obj\Debug\netcoreapp2.0\PIIApi.pdb
